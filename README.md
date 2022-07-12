@@ -8,3 +8,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/youzipi/repos?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#10099](https://github.com/apache/dolphinscheduler/pull/10099) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
+<!--END_SECTION:activity-->
