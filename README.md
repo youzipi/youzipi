@@ -8,5 +8,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/youzipi/repos?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16713](https://github.com/apache/pulsar/issues/16713) in [apache/pulsar](https://github.com/apache/pulsar)
+1. ❗️ Opened issue [#16911](https://github.com/apache/pulsar/issues/16911) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
