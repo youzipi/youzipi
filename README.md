@@ -8,5 +8,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/youzipi/repos?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16993](https://github.com/apache/pulsar/issues/16993) in [apache/pulsar](https://github.com/apache/pulsar)
+1. ❗️ Opened issue [#149](https://github.com/gaul/modernizer-maven-plugin/issues/149) in [gaul/modernizer-maven-plugin](https://github.com/gaul/modernizer-maven-plugin)
 <!--END_SECTION:activity-->
