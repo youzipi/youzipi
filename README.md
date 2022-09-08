@@ -8,5 +8,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/youzipi/repos?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2594](https://github.com/dromara/hutool/pull/2594) in [dromara/hutool](https://github.com/dromara/hutool)
+1. 🗣 Commented on [#17275](https://github.com/apache/pulsar/issues/17275) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
