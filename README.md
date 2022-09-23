@@ -8,5 +8,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/youzipi/repos?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1001](https://github.com/mongodb/mongo-java-driver/pull/1001) in [mongodb/mongo-java-driver](https://github.com/mongodb/mongo-java-driver)
+1. 🗣 Commented on [#17691](https://github.com/apache/pulsar/issues/17691) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
