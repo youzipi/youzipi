@@ -8,5 +8,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/youzipi/repos?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/youzipi/pulsar/pull/1) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
+1. 💪 Opened PR [#17968](https://github.com/apache/pulsar/pull/17968) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
