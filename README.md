@@ -13,4 +13,9 @@
 
 ## ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ARIES&lpar;1/n&rpar; - 使用 WAL 实现 原子性和一致性](http://youzipi.org/blog/2021/aries-1/)
+- [【DDD-实践】社保公积金，工资计算功能的实现](http://youzipi.org/blog/2019/ddd-in-salary-calculation/)
+- [【review-项目】spring-cloud-gateway，spring-boot-actuator 导致 OOM](http://youzipi.org/blog/2019/spring-boot-actuator-oom/)
+- [【设计模式-实践】使用 模板模式 实现 微信微信模板消息推送](http://youzipi.org/blog/2019/template-pattern/)
+- [【review-项目】TransmittableThreadLocal 导致的线程数据逸出](http://youzipi.org/blog/2019/transmittable-thread-local/)
 <!-- BLOG-POST-LIST:END -->
