@@ -3,11 +3,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youzipi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=9dcf831f-e1e7-463e-822a-9241740bc1a1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=9dcf831f-e1e7-463e-822a-9241740bc1a1&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/youzipi/repos?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
-
+## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#2](https://github.com/youzipi/pulsar/pull/2) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
 2. 🗣 Commented on [#1442](https://github.com/reactor/reactor-netty/issues/1442) in [reactor/reactor-netty](https://github.com/reactor/reactor-netty)
