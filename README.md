@@ -9,16 +9,16 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/youzipi/pulsar/pull/2) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
-2. 🗣 Commented on [#1442](https://github.com/reactor/reactor-netty/issues/1442) in [reactor/reactor-netty](https://github.com/reactor/reactor-netty)
-3. 🗣 Commented on [#17968](https://github.com/apache/pulsar/issues/17968) in [apache/pulsar](https://github.com/apache/pulsar)
+1. ❗️ Opened issue [#2591](https://github.com/reactor/reactor-netty/issues/2591) in [reactor/reactor-netty](https://github.com/reactor/reactor-netty)
+2. ❌ Closed PR [#2](https://github.com/youzipi/pulsar/pull/2) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
+3. 🗣 Commented on [#1442](https://github.com/reactor/reactor-netty/issues/1442) in [reactor/reactor-netty](https://github.com/reactor/reactor-netty)
 4. 🗣 Commented on [#17968](https://github.com/apache/pulsar/issues/17968) in [apache/pulsar](https://github.com/apache/pulsar)
-5. 🗣 Commented on [#2](https://github.com/youzipi/pulsar/issues/2) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
-6. 💪 Opened PR [#17968](https://github.com/apache/pulsar/pull/17968) in [apache/pulsar](https://github.com/apache/pulsar)
-7. 💪 Opened PR [#2](https://github.com/youzipi/pulsar/pull/2) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
-8. ❌ Closed PR [#1](https://github.com/youzipi/pulsar/pull/1) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
-9. 🗣 Commented on [#17691](https://github.com/apache/pulsar/issues/17691) in [apache/pulsar](https://github.com/apache/pulsar)
-10. 🗣 Commented on [#1](https://github.com/youzipi/pulsar/issues/1) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
+5. 🗣 Commented on [#17968](https://github.com/apache/pulsar/issues/17968) in [apache/pulsar](https://github.com/apache/pulsar)
+6. 🗣 Commented on [#2](https://github.com/youzipi/pulsar/issues/2) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
+7. 💪 Opened PR [#17968](https://github.com/apache/pulsar/pull/17968) in [apache/pulsar](https://github.com/apache/pulsar)
+8. 💪 Opened PR [#2](https://github.com/youzipi/pulsar/pull/2) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
+9. ❌ Closed PR [#1](https://github.com/youzipi/pulsar/pull/1) in [youzipi/pulsar](https://github.com/youzipi/pulsar)
+10. 🗣 Commented on [#17691](https://github.com/apache/pulsar/issues/17691) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
 
 ## ✍️ Blog posts
