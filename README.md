@@ -9,16 +9,16 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/youzipi/hexo-blog-config/pull/18) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
-2. 🎉 Merged PR [#9](https://github.com/youzipi/hexo-blog-config/pull/9) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
-3. 🎉 Merged PR [#13](https://github.com/youzipi/hexo-blog-config/pull/13) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
-4. 🎉 Merged PR [#17](https://github.com/youzipi/hexo-blog-config/pull/17) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
-5. 💪 Opened PR [#13208](https://github.com/apache/dolphinscheduler/pull/13208) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
-6. 🗣 Commented on [#4244](https://github.com/apache/shenyu/issues/4244) in [apache/shenyu](https://github.com/apache/shenyu)
-7. 💪 Opened PR [#4245](https://github.com/apache/shenyu/pull/4245) in [apache/shenyu](https://github.com/apache/shenyu)
-8. 💪 Opened PR [#4244](https://github.com/apache/shenyu/pull/4244) in [apache/shenyu](https://github.com/apache/shenyu)
-9. 🎉 Merged PR [#12](https://github.com/youzipi/hexo-blog-config/pull/12) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
-10. 🎉 Merged PR [#11](https://github.com/youzipi/hexo-blog-config/pull/11) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+1. 🎉 Merged PR [#16](https://github.com/youzipi/hexo-blog-config/pull/16) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+2. 🎉 Merged PR [#18](https://github.com/youzipi/hexo-blog-config/pull/18) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+3. 🎉 Merged PR [#9](https://github.com/youzipi/hexo-blog-config/pull/9) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+4. 🎉 Merged PR [#13](https://github.com/youzipi/hexo-blog-config/pull/13) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+5. 🎉 Merged PR [#17](https://github.com/youzipi/hexo-blog-config/pull/17) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+6. 💪 Opened PR [#13208](https://github.com/apache/dolphinscheduler/pull/13208) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
+7. 🗣 Commented on [#4244](https://github.com/apache/shenyu/issues/4244) in [apache/shenyu](https://github.com/apache/shenyu)
+8. 💪 Opened PR [#4245](https://github.com/apache/shenyu/pull/4245) in [apache/shenyu](https://github.com/apache/shenyu)
+9. 💪 Opened PR [#4244](https://github.com/apache/shenyu/pull/4244) in [apache/shenyu](https://github.com/apache/shenyu)
+10. 🎉 Merged PR [#12](https://github.com/youzipi/hexo-blog-config/pull/12) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 <!--END_SECTION:activity-->
 
 ## ✍️ Blog posts
