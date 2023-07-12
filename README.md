@@ -9,8 +9,8 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/youzipi/hexo-blog-config/pull/19) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
-2. 💪 Opened PR [#2980](https://github.com/dromara/hutool/pull/2980) in [dromara/hutool](https://github.com/dromara/hutool)
+1. 🎉 Merged PR [#22](https://github.com/youzipi/hexo-blog-config/pull/22) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+2. 🎉 Merged PR [#19](https://github.com/youzipi/hexo-blog-config/pull/19) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 3. 🎉 Merged PR [#16](https://github.com/youzipi/hexo-blog-config/pull/16) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 4. 🎉 Merged PR [#18](https://github.com/youzipi/hexo-blog-config/pull/18) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 5. 🎉 Merged PR [#9](https://github.com/youzipi/hexo-blog-config/pull/9) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
