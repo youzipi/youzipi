@@ -9,7 +9,7 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/youzipi/hexo-blog-config/pull/22) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+1. ❗ Opened issue [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
 2. 🎉 Merged PR [#19](https://github.com/youzipi/hexo-blog-config/pull/19) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 3. 🎉 Merged PR [#16](https://github.com/youzipi/hexo-blog-config/pull/16) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 4. 🎉 Merged PR [#18](https://github.com/youzipi/hexo-blog-config/pull/18) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
