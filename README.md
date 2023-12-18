@@ -9,10 +9,10 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4#issuecomment-1798186468) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
-2. ❗ Opened issue [#10](https://github.com/WisdomShell/codeshell-intellij/issues/10) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
-3. ❗ Opened issue [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
-4. 🎉 Merged PR [#18](https://github.com/youzipi/hexo-blog-config/pull/18) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
+1. 🗣 Commented on [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4#issuecomment-1859722889) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
+2. 🗣 Commented on [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4#issuecomment-1798186468) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
+3. ❗ Opened issue [#10](https://github.com/WisdomShell/codeshell-intellij/issues/10) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
+4. ❗ Opened issue [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
 5. 🎉 Merged PR [#9](https://github.com/youzipi/hexo-blog-config/pull/9) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 6. 🎉 Merged PR [#13](https://github.com/youzipi/hexo-blog-config/pull/13) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 7. 🎉 Merged PR [#17](https://github.com/youzipi/hexo-blog-config/pull/17) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
