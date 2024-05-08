@@ -9,9 +9,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2014789648) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
-2. ❗ Opened issue [#114](https://github.com/xuebinqin/DIS/issues/114) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
-3. ❗ Opened issue [#423](https://github.com/apache/pulsar-helm-chart/issues/423) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
+1. 🗣 Commented on [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4#issuecomment-2100010045) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
+2. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2014789648) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
+3. ❗ Opened issue [#114](https://github.com/xuebinqin/DIS/issues/114) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
 4. 🗣 Commented on [#21815](https://github.com/apache/pulsar/issues/21815#issuecomment-1871089559) in [apache/pulsar](https://github.com/apache/pulsar)
 5. 🗣 Commented on [#21815](https://github.com/apache/pulsar/issues/21815#issuecomment-1871066093) in [apache/pulsar](https://github.com/apache/pulsar)
 6. 🗣 Commented on [#21815](https://github.com/apache/pulsar/issues/21815#issuecomment-1871013724) in [apache/pulsar](https://github.com/apache/pulsar)
