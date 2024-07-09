@@ -9,13 +9,13 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18565](https://github.com/DaoCloud/public-image-mirror/issues/18565) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-2. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2119770509) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
-3. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2114961228) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
-4. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2114485944) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
-5. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2112303818) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
-6. 🗣 Commented on [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4#issuecomment-2100010045) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
-7. ❗ Opened issue [#114](https://github.com/xuebinqin/DIS/issues/114) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
+1. ❗ Opened issue [#24](https://github.com/CosmosShadow/gptpdf/issues/24) in [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)
+2. ❗ Opened issue [#18565](https://github.com/DaoCloud/public-image-mirror/issues/18565) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+3. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2119770509) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
+4. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2114961228) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
+5. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2114485944) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
+6. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2112303818) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
+7. 🗣 Commented on [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4#issuecomment-2100010045) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
 8. ❗ Opened issue [#10](https://github.com/WisdomShell/codeshell-intellij/issues/10) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
 9. ❗ Opened issue [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
 10. 🎉 Merged PR [#12](https://github.com/youzipi/hexo-blog-config/pull/12) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
