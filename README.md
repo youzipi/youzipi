@@ -9,8 +9,8 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2378966965) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
-2. ❗ Opened issue [#24](https://github.com/CosmosShadow/gptpdf/issues/24) in [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)
+1. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2401412985) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
+2. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2378966965) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
 3. ❗ Opened issue [#18565](https://github.com/DaoCloud/public-image-mirror/issues/18565) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
 4. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2114961228) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
 5. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2114485944) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
