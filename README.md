@@ -9,11 +9,11 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37397](https://github.com/DaoCloud/public-image-mirror/issues/37397) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-2. ❗ Opened issue [#37396](https://github.com/DaoCloud/public-image-mirror/issues/37396) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-3. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2401412985) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
-4. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2378966965) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
-5. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2114485944) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
+1. ❗ Opened issue [#37447](https://github.com/DaoCloud/public-image-mirror/issues/37447) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+2. ❗ Opened issue [#37397](https://github.com/DaoCloud/public-image-mirror/issues/37397) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+3. ❗ Opened issue [#37396](https://github.com/DaoCloud/public-image-mirror/issues/37396) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+4. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2401412985) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
+5. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2378966965) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
 6. 🗣 Commented on [#105](https://github.com/xuebinqin/DIS/issues/105#issuecomment-2112303818) in [xuebinqin/DIS](https://github.com/xuebinqin/DIS)
 7. 🗣 Commented on [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4#issuecomment-2100010045) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
 8. ❗ Opened issue [#10](https://github.com/WisdomShell/codeshell-intellij/issues/10) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
