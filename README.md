@@ -9,14 +9,14 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37608](https://github.com/DaoCloud/public-image-mirror/issues/37608) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-2. 🗣 Commented on [#37604](https://github.com/DaoCloud/public-image-mirror/issues/37604#issuecomment-2565075651) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-3. ❗ Opened issue [#37604](https://github.com/DaoCloud/public-image-mirror/issues/37604) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-4. ❗ Opened issue [#37447](https://github.com/DaoCloud/public-image-mirror/issues/37447) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-5. ❗ Opened issue [#37397](https://github.com/DaoCloud/public-image-mirror/issues/37397) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-6. ❗ Opened issue [#37396](https://github.com/DaoCloud/public-image-mirror/issues/37396) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-7. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2401412985) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
-8. ❗ Opened issue [#10](https://github.com/WisdomShell/codeshell-intellij/issues/10) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
+1. ❗ Opened issue [#38488](https://github.com/DaoCloud/public-image-mirror/issues/38488) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+2. ❗ Opened issue [#37608](https://github.com/DaoCloud/public-image-mirror/issues/37608) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+3. 🗣 Commented on [#37604](https://github.com/DaoCloud/public-image-mirror/issues/37604#issuecomment-2565075651) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+4. ❗ Opened issue [#37604](https://github.com/DaoCloud/public-image-mirror/issues/37604) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+5. ❗ Opened issue [#37447](https://github.com/DaoCloud/public-image-mirror/issues/37447) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+6. ❗ Opened issue [#37397](https://github.com/DaoCloud/public-image-mirror/issues/37397) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+7. ❗ Opened issue [#37396](https://github.com/DaoCloud/public-image-mirror/issues/37396) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+8. 🗣 Commented on [#423](https://github.com/apache/pulsar-helm-chart/issues/423#issuecomment-2401412985) in [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)
 9. ❗ Opened issue [#4](https://github.com/WisdomShell/codeshell-intellij/issues/4) in [WisdomShell/codeshell-intellij](https://github.com/WisdomShell/codeshell-intellij)
 10. 🎉 Merged PR [#12](https://github.com/youzipi/hexo-blog-config/pull/12) in [youzipi/hexo-blog-config](https://github.com/youzipi/hexo-blog-config)
 <!--END_SECTION:activity-->
